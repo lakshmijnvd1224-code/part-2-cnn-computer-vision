@@ -40,7 +40,7 @@ representing different surface conditions of a manufactured product.
 - Sample predictions show 100% confidence on most test images
 - Mild overfitting observed in later epochs as training accuracy reached 100%
 
-## CNN Concept Explanation
+## Task 6 CNN Concept Explanation
 
 **What is Convolution?**
 Convolution is like sliding a small filter (like a magnifying glass) across
@@ -64,7 +64,7 @@ nearby pixels together, allowing them to detect shapes, textures, and
 patterns the way human eyes do. This makes CNNs far more efficient and
 accurate for image data.
 
-## Business Use Case — Manufacturing Quality Inspection
+## Task 7 Business Use Case — Manufacturing Quality Inspection
 
 In a real manufacturing plant, cameras on the production line capture images
 of every product as it moves along the conveyor belt. A CNN model like this
