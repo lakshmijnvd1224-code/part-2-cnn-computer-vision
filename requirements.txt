@@ -1,0 +1,15 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+
+tensorflow — the main library used to build and train the CNN neural network model
+scikit-learn — used for splitting data into train and test sets and generating the classification report and confusion matrix
+pandas — used for loading and reading the labels.csv file
+numpy — used for converting images into numbers (arrays) that the model can understand
+matplotlib — used for plotting the accuracy/loss curves and displaying sample prediction images
+seaborn — used for creating the nicely formatted confusion matrix heatmap
+Pillow — used for opening, reading and resizing the PNG image files from the dataset folders
